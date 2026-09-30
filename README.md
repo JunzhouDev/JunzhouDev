@@ -95,16 +95,7 @@ const junzhou = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JunzhouDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunzhouDev&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=JunzhouDev&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JunzhouDev&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
 </p>
 
 ---
